@@ -6,3 +6,13 @@
     }
   }
 }
+
+{
+  "version": 2,
+  "projects": [
+    {
+      "src": "services/python_api/api/index.py",
+      "use": "@vercel/python@3.12"
+    }
+  ]
+}
